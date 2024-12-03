@@ -1,4 +1,4 @@
-# Verify
+# Verify(Easy)
 ## Description
 People keep trying to trick my players with imitation flags. I want to make sure they get the real thing! I'm going to provide the SHA-256 hash and a decrypt script to help you know that my flags are legitimate.
 ```bash
@@ -28,7 +28,7 @@ Challenge Link: https://play.picoctf.org/practice/challenge/450
 ---
 
 ## Solution
-After connecting using ssh based on the instruction.
+After connecting using `ssh` and password `84b12bae` based on the instruction.
 ### 1. Listing Files 
 List the files in the directory using `ls` command.
 
