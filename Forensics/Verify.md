@@ -387,6 +387,14 @@ ctf-player@pico-chall$ ./decrypt.sh files/e018b574
 picoCTF{trust_but_verify_e018b574}
 ```
 
+
+## Explanation:
+1. We use `sha256sum` to calculate the hash of all files, then filter the results with grep to find the file matching the hash from checksum.txt.
+* `sha256sum`: It generates unique hashes for files, allowing us to identify the one we're looking for.
+* `grep`: It filters the output to find the exact hash we need, revealing the file e018b574.
+2. The `decrypt.sh` script is used to decrypt the identified file `(e018b574)`, yielding the flag.
+* `decrypt.sh`: It applies a decryption method to the file, revealing the flag.
+
 ## Flag
 ```bash
 picoCTF{trust_but_verify_e018b574}
