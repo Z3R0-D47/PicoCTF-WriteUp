@@ -19,7 +19,7 @@ This repository covers challenges from the following categories:
   - The challenge description.
   - Step-by-step solution.
   - Tools or techniques used.
-  - Lessons learned or additional insights.
+  - Explanation or additional insights.
 
 ## License
 
