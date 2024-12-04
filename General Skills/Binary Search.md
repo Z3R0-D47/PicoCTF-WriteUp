@@ -58,7 +58,7 @@ Congratulations! You guessed the correct number: 644
 Here's your flag: picoCTF{g00d_gu355_3af33d18}
 Connection to atlas.picoctf.net closed.
 ```
-## Explanation and Logic Behind Binary Search
+## Explanation and Logic Behind Binary Search:
 This challenge mimics the binary search algorithm, an efficient method for finding a target value in a sorted dataset by repeatedly halving the search range. The goal is to guess a number between ***1*** and ***1000*** within ***10*** attempts, leveraging binary search principles:
 
 1. **Divide and Conquer**: Start at the midpoint of the range `(500)`.
