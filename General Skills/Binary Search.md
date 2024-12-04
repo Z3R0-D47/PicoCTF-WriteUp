@@ -1,6 +1,6 @@
 # Binary Search(Easy)
 ## Description
-Want to play a game? As you use more of the shell, you might be interested in how they work! Binary search is a classic algorithm used to quickly find an item in a sorted list. Can you find the flag? You'll have 1000 possibilities and only 10 guesses.
+Want to play a game? As you use more of the shell, you might be interested in how they work! Binary search is a classic algorithm used to quickly find an item in a sorted list. Can you find the flag? You'll have ***1000*** possibilities and only ***10*** guesses.
 
 Cyber security often has a huge amount of data to look through - from logs, vulnerability reports, and forensics. Practicing the fundamentals manually might help you in the future when you have to write your own tools!
 You can download the challenge files here:
@@ -24,7 +24,7 @@ Challenge Link: https://play.picoctf.org/practice/challenge/442
 After connecting using `ssh` and password `1ad5be0d` based on the instruction.
 
 ### 1. Using Binary Search to Guess the Number
-Start with the middle of the range, 500. Adjust your guess based on the program’s feedback `(“Higher” or “Lower”)` until you find the correct number. 
+Start with the middle of the range, ***500***. Adjust your guess based on the program’s feedback `(“Higher” or “Lower”)` until you find the correct number. 
 ```bash
 Z3R0-D47-picoctf@webshell:~$ ssh -p 52747 ctf-player@atlas.picoctf.net
 The authenticity of host '[atlas.picoctf.net]:52747 ([18.217.83.136]:52747)' can't be established.
