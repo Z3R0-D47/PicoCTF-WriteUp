@@ -17,7 +17,7 @@ Challenge Link: https://play.picoctf.org/practice/challenge/144
 ### 1. Decode the `ROT13` string
 Copy the string `cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_Ncualgvd}` and decode using an online decoder:
 - [CyberChef](https://gchq.github.io/CyberChef/)
-- [dCode](https://www.dcode.fr/base-64-encoding)
+- [dCode](https://www.dcode.fr/rot-13-cipher)
 - [crytii](https://cryptii.com/)
   
 These are a few online decoders that I recommend. Any of them will work.
