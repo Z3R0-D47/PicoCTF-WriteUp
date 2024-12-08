@@ -5,6 +5,7 @@ The numbers... what do they mean?
 ```bash
 16 9 3 15 3 20 6 { 20 8 5 14 21 13 2 5 18 19 13 1 19 15 14 }
 ```
+<img width="387" alt="the_numbers" src="https://github.com/user-attachments/assets/38895362-2262-4ecd-ba0e-6752014b6f82">
 
 - Hints
   - The flag is in the format PICOCTF{}
