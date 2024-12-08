@@ -3,6 +3,8 @@
 I've gotten bored of handing out flags as text. Wouldn't it be cool if they were an image instead?
 You can download the challenge files here:
 `challenge.zip`
+![flag](https://github.com/user-attachments/assets/6f64673d-3d05-4418-b4e3-371456e0c688)
+
 The same files are accessible via SSH here:
 ```bash
 ssh -p 58967 ctf-player@atlas.picoctf.net
