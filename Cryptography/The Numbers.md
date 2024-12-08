@@ -8,6 +8,8 @@ The numbers... what do they mean?
 
 - Hints
   - The flag is in the format PICOCTF{}
+ 
+Challenge Link: https://play.picoctf.org/practice/challenge/68
 
 ---
 ## Solution
