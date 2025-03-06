@@ -66,6 +66,22 @@ This challenge mimics the binary search algorithm, an efficient method for findi
 3. **Repeat**: Continue halving the range and guessing the midpoint until you find the target.
 This approach mimics the binary search's efficiency, reducing the number of guesses to a logarithmic scale. With ***1000*** possibilities, binary search ensures you find the correct number in at most ***10*** guesses, as `log2(1000)≈10`.
 
+Example: Finding 723 using Binary Search
+-------------------------------------------
+| Step | Guess     | High/Low| Range      |
+|------|-----------|---------|------------|
+| 1    | 500       | Low     | 501 - 1000 |
+| 2    | 750       | High    | 501 - 749  |
+| 3    | 625       | Low     | 626 - 749  |
+| 4    | 687       | Low     | 688 - 749  |
+| 5    | 718       | Low     | 719 - 749  |
+| 6    | 734       | High    | 719 - 733  |
+| 7    | 726       | High    | 719 - 725  |
+| 8    | 722       | Low     | 723 - 725  |
+| 9    | ***723*** | *Found* | 723 - 723  |
+-------------------------------------------
+
+
 ​
 ## Flag
 ```bash
