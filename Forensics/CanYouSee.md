@@ -7,6 +7,9 @@ Download this file [here](https://artifacts.picoctf.net/c_titan/6/unknown.zip).
 - Hints
   - How can you view the information about the picture?
   - If something isn't in the expected form, maybe it deserves attention?
+ 
+Challenge Link: https://play.picoctf.org/practice/challenge/408
+
 ---
 
 ## Solution
