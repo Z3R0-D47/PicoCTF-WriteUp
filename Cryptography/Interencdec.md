@@ -6,6 +6,8 @@ Download the file [here](https://artifacts.picoctf.net/c_titan/3/enc_flag).
 
 - Hints
   - Engaging in various decoding processes is of utmost importance.
+ 
+Challenge Link: https://play.picoctf.org/practice/challenge/418
 ---
 
 ## Solution
